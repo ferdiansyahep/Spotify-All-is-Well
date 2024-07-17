@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191794750052",
+    "project_id": "spotify-tekmob-fea7f",
+    "storage_bucket": "spotify-tekmob-fea7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191794750052:android:320bae65c5311ab62cb571",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMDgl_ygrvYJYNxNiXYCrZQh2hqKglRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
